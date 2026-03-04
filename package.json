@@ -33,7 +33,7 @@
   },
   "devDependencies": {
     "typescript": "^5.0.0",
-    "@synergenius/flow-weaver": "^0.14.2"
+    "@synergenius/flow-weaver": "^0.17.1"
   },
   "license": "SEE LICENSE IN LICENSE",
   "repository": {
