@@ -1,4 +1,4 @@
-# @synergenius/flowweaver-pack-vercel
+# @synergenius/flow-weaver-pack-vercel
 
 Vercel Serverless Functions export target for [Flow Weaver](https://github.com/synergenius-fw/flow-weaver).
 
@@ -7,7 +7,7 @@ Generates Vercel-compatible serverless functions with file-based routing from Fl
 ## Installation
 
 ```bash
-npm install @synergenius/flowweaver-pack-vercel
+npm install @synergenius/flow-weaver-pack-vercel
 ```
 
 This package is a **marketplace pack** — once installed, Flow Weaver automatically discovers it via `createTargetRegistry()`.

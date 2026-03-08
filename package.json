@@ -1,5 +1,5 @@
 {
-  "name": "@synergenius/flowweaver-pack-vercel",
+  "name": "@synergenius/flow-weaver-pack-vercel",
   "version": "0.1.1",
   "description": "Vercel Serverless Functions export target for Flow Weaver",
   "keywords": [
@@ -38,6 +38,6 @@
   "license": "SEE LICENSE IN LICENSE",
   "repository": {
     "type": "git",
-    "url": "https://github.com/synergenius-fw/flowweaver-pack-vercel.git"
+    "url": "https://github.com/synergenius-fw/flow-weaver-pack-vercel.git"
   }
 }

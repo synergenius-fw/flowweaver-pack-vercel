@@ -1,6 +1,6 @@
 {
   "manifestVersion": 1,
-  "name": "@synergenius/flowweaver-pack-vercel",
+  "name": "@synergenius/flow-weaver-pack-vercel",
   "version": "0.1.0",
   "nodeTypes": [],
   "workflows": [],
